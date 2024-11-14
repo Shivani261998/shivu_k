@@ -1,0 +1,4 @@
+Task Functions (vTask1, vTask2):
+
+Each task function (vTask1 and vTask2) has an infinite while(1) loop. This allows the tasks to run indefinitely as long as the system is operational.
+Inside each loop, a printf() simulates some action (e.g., blinking an LED or printing a message).
